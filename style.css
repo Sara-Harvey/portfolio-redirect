@@ -15,11 +15,10 @@ body {
 }
 
 .inner {
-  padding-top: 20px;
+  padding: 40px;
 }
 
 h1 {
-  justify-content: center;
   color: whitesmoke;
   font-weight: 700;
 }
